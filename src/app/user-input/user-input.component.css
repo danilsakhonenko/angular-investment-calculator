@@ -1,5 +1,5 @@
 form {
-  padding: 3rem;
+  padding: 2.5rem;
   max-width: 50rem;
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@ input {
 
 button {
   width: 100%;
-  padding: 0.5rem;
+  padding: 0.8rem;
   border: 1px solid #76c0ae;
   border-radius: 0.25rem;
   background-color: #83e6c0;
